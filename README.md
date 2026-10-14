@@ -1,4 +1,4 @@
-# 👗 Fashion Recommender System
+# LookBook: Image-Based Fashion Discovery
 
 An image-based **Fashion Recommender System** built with **Streamlit,
 TensorFlow, ResNet50, and Scikit-learn**.
